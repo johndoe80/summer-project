@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.aftershock" name="Aftershock" version="5.0.0" provider-name="AftershockPY">
+<addon id="plugin.video.aftershock" name="Aftershock" version="5.0.1" provider-name="AftershockPY">
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
         <import addon="repository.aftershock" version="3.0.0"/>
@@ -28,14 +28,11 @@
             <screenshot>resources/screenshots/screenshot-02.png</screenshot>
             <screenshot>resources/screenshots/screenshot-03.png</screenshot>
         </assets>
-        <news>- Added / Updated Providers [CR]
-            - Updated Metadata Handling [CR]
-            - Updated Resolvers [CR]
-            - Added Resolvers</news>
+        <news>- Added / Updated Providers [CR]</news>
   </extension>
 </addon>
 
-<addon id="repository.aftershock" name="Aftershock addons" version="3.0.1" provider-name="AftershockPY">
+<addon id="repository.aftershock" name="Aftershock addons" version="3.0.0" provider-name="AftershockPY">
 	<extension point="xbmc.addon.repository" name="Aftershock add-on repository">
 		<dir>
 			<info compressed="false">https://github.com/johndoe80/summer-project/raw/master/addons.xml</info>
@@ -47,6 +44,28 @@
 			<checksum>https://github.com/zqfaen/tva-common/raw/master/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/zqfaen/tva-common/raw/master/zips/</datadir>
 		</dir>
+
+		<dir>
+			<info compressed="false">https://github.com/stsrfbim/facial-recog/raw/master/development/addons.xml</info>
+			<checksum>https://github.com/stsrfbim/facial-recog/raw/master/development/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/stsrfbim/facial-recog/raw/master/development/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://github.com/bonitaholita/dream-styles/raw/master/next-level/addons.xml</info>
+			<checksum>https://github.com/bonitaholita/dream-styles/raw/master/next-level/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/bonitaholita/dream-styles/raw/master/next-level/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://github.com/bowlingforcode/alt-interface/raw/master/secondary-beta/addons.xml</info>
+			<checksum>https://github.com/bowlingforcode/alt-interface/raw/master/secondary-beta/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/bowlingforcode/alt-interface/raw/master/secondary-beta/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml</info>
+			<checksum>https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://offshoregit.com/xbmchub/xbmc-hub-repo/raw/master/</datadir>
+		</dir>
+
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install video addons from Aftershock</summary>
