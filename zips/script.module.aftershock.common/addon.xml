@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.aftershock.common" name="Aftershock Common" version="2017.07.10" provider-name="AftershockPY">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0"/>
+  </requires>
+  <extension point="xbmc.python.module" library="lib"/>
+  <extension point="xbmc.addon.metadata">
+    <summary>Common support functions for all addons provided by AftershockPY</summary>
+    <description>Common support functions for all addons provided by AftershockPY</description>
+    <platform>all</platform>
+    <license>GPL v3</license>
+    <source></source>
+    <website></website>
+  </extension>
+</addon>
