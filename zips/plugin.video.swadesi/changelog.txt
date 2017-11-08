@@ -1,3 +1,9 @@
+V 2017.11.07
+------------------------
+- Updated DesiScrapers
+- UI Enhancement
+- Performance Improvements
+
 V 2017.10.07
 ------------------------
 - Updated DesiScrapers

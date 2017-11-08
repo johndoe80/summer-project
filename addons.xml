@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.swadesi" name="Swa-DESI" version="2017.10.08" provider-name="AftershockPY">
+<addon id="plugin.video.swadesi" name="Swa-DESI" version="2017.11.07" provider-name="AftershockPY">
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
         <import addon="repository.aftershock" version="2017.07.10"/>
@@ -28,7 +28,7 @@
             <screenshot>resources/screenshots/screenshot-02.png</screenshot>
             <screenshot>resources/screenshots/screenshot-03.png</screenshot>
         </assets>
-        <news>- Added / Updated Providers [CR]</news>
+        <news>- UI Enhancement [CR]</news>
   </extension>
 </addon>
 
@@ -88,7 +88,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.aftershock.common" name="Aftershock Common" version="2017.10.07" provider-name="AftershockPY">
+<addon id="script.module.aftershock.common" name="Aftershock Common" version="2017.11.07" provider-name="AftershockPY">
   <requires>
     <import addon="xbmc.python" version="2.19.0"/>
   </requires>
@@ -103,7 +103,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.desiscrapers" name="Desi Scrapers" version="2017.10.08" provider-name="AftershockPY">
+<addon id="script.module.desiscrapers" name="Desi Scrapers" version="2017.11.07" provider-name="AftershockPY">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.beautifulsoup" version="3.2.1"/>
