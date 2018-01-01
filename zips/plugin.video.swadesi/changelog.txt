@@ -1,3 +1,7 @@
+V 2017.12.31
+------------------------
+- Fixed Episodes Indexer
+
 V 2017.12.08
 ------------------------
 - Fixed Episodes Indexer
