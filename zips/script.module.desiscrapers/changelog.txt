@@ -1,7 +1,13 @@
-v 2017.11.07
+v 2018.01.24
 ------------------------
 
-- Fixed ()
+- Fixed Desirulez
+- Fixed WatchFree
+- Fixed WRMovies
+- Added YoMovies
+- Removed Apnaview
+- Removed Ditto
+- Removed rlsmovies
 
 v 2017.09.16
 ------------------------
