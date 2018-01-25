@@ -103,7 +103,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.desiscrapers" name="Desi Scrapers" version="2018.01.24" provider-name="AftershockPY">
+<addon id="script.module.desiscrapers" name="Desi Scrapers" version="2018.01.25" provider-name="AftershockPY">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.beautifulsoup" version="3.2.1"/>

@@ -1,6 +1,11 @@
 v 2018.01.24
 ------------------------
 
+- Added Hindi Movies Online
+
+v 2018.01.24
+------------------------
+
 - Fixed Desirulez
 - Fixed WatchFree
 - Fixed WRMovies
