@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.swadesi" name="Swa-DESI" version="2018.01.24" provider-name="AftershockPY">
+<addon id="plugin.video.swadesi" name="Swa-DESI" version="2018.04.06" provider-name="AftershockPY">
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
         <import addon="repository.aftershock" version="2017.07.10"/>
         <import addon="script.module.aftershock.common"/>
         <import addon="script.aftershock.artwork"/>
         <import addon="script.module.desiscrapers" />
-        <import addon="script.module.urlresolver"  version="3.0.32"/>
+        <import addon="script.module.urlresolver"  version="5.0.0"/>
 		<import addon="script.module.metahandler"  version="1.0.0"/>
 		<import addon="script.module.beautifulsoup" version="3.2.1"/>
     </requires>
