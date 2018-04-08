@@ -1,5 +1,0 @@
-- [COLOR orange]NOTE: Aftershock is back online [/COLOR]
-
-Aftershock v3.0.0
---------------------------------
-- Migrated from TVADDONS
