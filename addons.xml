@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.swadesi" name="Swa-DESI" version="2018.04.06" provider-name="AftershockPY">
+<addon id="plugin.video.swadesi" name="Swa-DESI" version="2018.05.01" provider-name="AftershockPY">
     <requires>
         <import addon="xbmc.python" version="2.19.0"/>
-        <import addon="repository.aftershock" version="2017.07.10"/>
+        <import addon="repository.aftershock" version="2018.04.06"/>
         <import addon="script.module.aftershock.common"/>
         <import addon="script.aftershock.artwork"/>
         <import addon="script.module.desiscrapers" />
@@ -117,7 +117,7 @@
 	</extension>
 </addon>
 
-<addon id="script.aftershock.artwork" version="2017.07.10" name="Aftershock Artwork" provider-name="AftershockPY">
+<addon id="script.aftershock.artwork" version="2018.05.01" name="Aftershock Artwork" provider-name="AftershockPY">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
