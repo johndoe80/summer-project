@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.aftershock.common" name="Aftershock Common" version="2017.11.07" provider-name="AftershockPY">
+<addon id="script.module.aftershock.common" name="Aftershock Common" version="2018.06.08" provider-name="AftershockPY">
   <requires>
     <import addon="xbmc.python" version="2.19.0"/>
   </requires>
